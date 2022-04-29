@@ -1,0 +1,24 @@
+#output{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    gap: 10px;
+    
+
+
+}
+#output>div{
+    border: .5px solid rgb(176, 173, 173);
+    padding-left: 20px;
+}
+.price{
+    display: flex;
+    
+}
+.price>div{
+    margin-right: 30px;
+}
+button{
+    display: flex;
+    justify-content: center;
+}

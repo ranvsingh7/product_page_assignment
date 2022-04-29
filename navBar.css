@@ -1,0 +1,9 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(43, 43, 251, 0.742);
+}
+a{
+    color: white;
+    text-decoration: none;
+}
